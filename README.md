@@ -1,3 +1,4 @@
+![MasterHead](https://www.enter.co/wp-content/uploads/2017/11/gifs.jpg)
 <h1 align="center">Hi 👋, I'm Sanyam Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" width="350" alt="Coding" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5402.jpg"></img>
