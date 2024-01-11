@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanyam Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" width="400" alt="coding" src="https://raw.githubusercontent.com/dkrzyszczyk/dkrzyszczyk/main/gabriela_mancini.gif"></img>
+<img align="right" width="300" alt="coding" src="https://raw.githubusercontent.com/dkrzyszczyk/dkrzyszczyk/main/gabriela_mancini.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sany27&label=Profile%20views&color=0e75b6&style=flat" alt="sany27" /> </p>
 
 <p align="left"> <a href="https://twitter.com/55sanyam74684" target="blank"><img src="https://img.shields.io/twitter/follow/55sanyam74684?logo=twitter&style=for-the-badge" alt="55sanyam74684" /></a> </p>
