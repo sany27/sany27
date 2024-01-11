@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/55sanyam74684" target="blank"><img src="https://img.shields.io/twitter/follow/55sanyam74684?logo=twitter&style=for-the-badge" alt="55sanyam74684" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack,Spring,Springboot,Hibernate,**
+- 🌱 I’m currently learning **MERN Stack,Spring,Springboot,Hibernate**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sany27?tab=repositories](https://github.com/sany27?tab=repositories)
 
