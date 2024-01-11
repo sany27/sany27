@@ -1,4 +1,3 @@
-![MasterHead](https://st2.depositphotos.com/16775192/47495/v/450/depositphotos_474954948-stock-illustration-banner-software-development-programming-web.jpg)
 <h1 align="center">Hi 👋, I'm Sanyam Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" width="350" alt="Coding" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5402.jpg"></img>
