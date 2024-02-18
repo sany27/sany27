@@ -1,4 +1,4 @@
-![logo](https://github.com/sany27/sany27/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(2).png)
+![logo](https://github.com/sany27/sany27/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sanyam Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" width="350" alt="Coding" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5402.jpg"></img>
